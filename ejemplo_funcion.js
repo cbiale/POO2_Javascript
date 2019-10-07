@@ -1,6 +1,3 @@
-console.log(typeof(1))
-console.log(typeof('cadena'))
-
 var cuadrado = function (x) {
 	return x * x;
 }
